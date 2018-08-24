@@ -1,0 +1,5 @@
+D:\Projects\C#\HellishWorld\Calculator\bin\Debug\Calculator.exe.config
+D:\Projects\C#\HellishWorld\Calculator\bin\Debug\Calculator.exe
+D:\Projects\C#\HellishWorld\Calculator\bin\Debug\Calculator.pdb
+D:\Projects\C#\HellishWorld\Calculator\obj\Debug\Calculator.exe
+D:\Projects\C#\HellishWorld\Calculator\obj\Debug\Calculator.pdb
